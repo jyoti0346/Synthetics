@@ -1,0 +1,4 @@
+variable "simplemonitor" {
+    type =any
+  
+}

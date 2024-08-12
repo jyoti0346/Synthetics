@@ -1,0 +1,4 @@
+variable "scripted" {
+    type = any
+  
+}

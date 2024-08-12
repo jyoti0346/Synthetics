@@ -1,0 +1,4 @@
+variable "ping" {
+    type = any
+  
+}
